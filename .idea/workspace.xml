@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f5db45ea-6ebe-4431-a67a-417754989022" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1g1HUp1Tea4aNHSXEF8uFpFcxAF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/Util" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.snake">
+    <configuration name="Snake" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Snake AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/Desktop/Snake:Replay/Snake_v2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Desktop/Snake:Replay/Snake_v2/Snake.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="Snake_v2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ai" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Snake AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ai.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="snake" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Snake AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/snake.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Snake AI" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Tox" factoryName="Tox">
+      <module name="Snake_v2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Doctests">
+      <module name="Snake_v2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="FOLDER_NAME" value="" />
+      <option name="TEST_TYPE" value="TEST_SCRIPT" />
+      <option name="PATTERN" value="" />
+      <option name="USE_PATTERN" value="false" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="Unittests">
+      <module name="Snake_v2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.snake" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.ai" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f5db45ea-6ebe-4431-a67a-417754989022" name="Default Changelist" comment="" />
+      <created>1597275196565</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1597275196565</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1705" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1597275329789">
+      <screen x="1280" y="-71" width="1920" height="1177" />
+    </state>
+    <state x="1705" y="134" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.698/1280.-71.1920.1177@1280.-71.1920.1177" timestamp="1597275329789" />
+    <state width="484" height="1056" key="GridCell.Tab.0.bottom" timestamp="1598580305178">
+      <screen x="1280" y="-377" width="1920" height="1177" />
+    </state>
+    <state width="1893" height="290" key="GridCell.Tab.0.bottom/0.23.1280.698/1280.-71.1920.1177@1280.-71.1920.1177" timestamp="1597275478862" />
+    <state width="544" height="551" key="GridCell.Tab.0.bottom/0.23.1280.698@0.23.1280.698" timestamp="1597294581141" />
+    <state width="484" height="1056" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.-377.1920.1177@1280.-377.1920.1177" timestamp="1598580305178" />
+    <state width="544" height="950" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.-71.1920.1098@1280.-71.1920.1098" timestamp="1597294319968" />
+    <state width="484" height="1056" key="GridCell.Tab.0.bottom/0.23.1280.777/1280.-71.1920.1177@1280.-71.1920.1177" timestamp="1597941589853" />
+    <state width="465" height="630" key="GridCell.Tab.0.bottom/0.23.1280.777@0.23.1280.777" timestamp="1597344675984" />
+    <state width="484" height="1056" key="GridCell.Tab.0.center" timestamp="1598580305177">
+      <screen x="1280" y="-377" width="1920" height="1177" />
+    </state>
+    <state width="1893" height="290" key="GridCell.Tab.0.center/0.23.1280.698/1280.-71.1920.1177@1280.-71.1920.1177" timestamp="1597275478861" />
+    <state width="544" height="551" key="GridCell.Tab.0.center/0.23.1280.698@0.23.1280.698" timestamp="1597294581140" />
+    <state width="484" height="1056" key="GridCell.Tab.0.center/0.23.1280.777/1280.-377.1920.1177@1280.-377.1920.1177" timestamp="1598580305177" />
+    <state width="544" height="950" key="GridCell.Tab.0.center/0.23.1280.777/1280.-71.1920.1098@1280.-71.1920.1098" timestamp="1597294319967" />
+    <state width="484" height="1056" key="GridCell.Tab.0.center/0.23.1280.777/1280.-71.1920.1177@1280.-71.1920.1177" timestamp="1597941589851" />
+    <state width="465" height="630" key="GridCell.Tab.0.center/0.23.1280.777@0.23.1280.777" timestamp="1597344675982" />
+    <state width="484" height="1056" key="GridCell.Tab.0.left" timestamp="1598580305176">
+      <screen x="1280" y="-377" width="1920" height="1177" />
+    </state>
+    <state width="1893" height="290" key="GridCell.Tab.0.left/0.23.1280.698/1280.-71.1920.1177@1280.-71.1920.1177" timestamp="1597275478860" />
+    <state width="544" height="551" key="GridCell.Tab.0.left/0.23.1280.698@0.23.1280.698" timestamp="1597294581139" />
+    <state width="484" height="1056" key="GridCell.Tab.0.left/0.23.1280.777/1280.-377.1920.1177@1280.-377.1920.1177" timestamp="1598580305176" />
+    <state width="544" height="950" key="GridCell.Tab.0.left/0.23.1280.777/1280.-71.1920.1098@1280.-71.1920.1098" timestamp="1597294319966" />
+    <state width="484" height="1056" key="GridCell.Tab.0.left/0.23.1280.777/1280.-71.1920.1177@1280.-71.1920.1177" timestamp="1597941589847" />
+    <state width="465" height="630" key="GridCell.Tab.0.left/0.23.1280.777@0.23.1280.777" timestamp="1597344675982" />
+    <state width="484" height="1056" key="GridCell.Tab.0.right" timestamp="1598580305177">
+      <screen x="1280" y="-377" width="1920" height="1177" />
+    </state>
+    <state width="1893" height="290" key="GridCell.Tab.0.right/0.23.1280.698/1280.-71.1920.1177@1280.-71.1920.1177" timestamp="1597275478862" />
+    <state width="544" height="551" key="GridCell.Tab.0.right/0.23.1280.698@0.23.1280.698" timestamp="1597294581140" />
+    <state width="484" height="1056" key="GridCell.Tab.0.right/0.23.1280.777/1280.-377.1920.1177@1280.-377.1920.1177" timestamp="1598580305177" />
+    <state width="544" height="950" key="GridCell.Tab.0.right/0.23.1280.777/1280.-71.1920.1098@1280.-71.1920.1098" timestamp="1597294319967" />
+    <state width="484" height="1056" key="GridCell.Tab.0.right/0.23.1280.777/1280.-71.1920.1177@1280.-71.1920.1177" timestamp="1597941589852" />
+    <state width="465" height="630" key="GridCell.Tab.0.right/0.23.1280.777@0.23.1280.777" timestamp="1597344675983" />
+    <state x="1671" y="29" key="SettingsEditor" timestamp="1597275305915">
+      <screen x="1280" y="-71" width="1920" height="1177" />
+    </state>
+    <state x="1671" y="29" key="SettingsEditor/0.23.1280.698/1280.-71.1920.1177@1280.-71.1920.1177" timestamp="1597275305915" />
+    <state x="1280" y="-71" width="1322" height="1066" maximized="true" key="dock-window-1" timestamp="1597520255212">
+      <screen x="1280" y="-71" width="1920" height="1177" />
+    </state>
+    <state x="1280" y="-71" width="1322" height="1066" key="dock-window-1/0.23.1280.777/1280.-71.1920.1098@1280.-71.1920.1098" timestamp="1597281777138" />
+  </component>
+</project>
